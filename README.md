@@ -42,5 +42,5 @@ O **Challenge** é um projeto que visa fornecer e cadastrar ferramentas de tecno
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-Instalar o Heroku CLI
+Instalar o Heroku CLI.
 Baixar e instalar [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line).
