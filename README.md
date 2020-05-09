@@ -1,8 +1,6 @@
 <h2 align="center">
-
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
   <br/>
-  🚀 Semana Omnistack 11.0
+  Challenge Bossa Box
 </h2>
 
 <p align="center">
