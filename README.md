@@ -6,9 +6,8 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#instalar-o-heroku-cli">Instalar o Heroku CLI</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -42,6 +41,6 @@ O **Challenge** é um projeto que visa fornecer e cadastrar ferramentas de tecno
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## Instalar o Heroku CLI.
+## Instalar o Heroku CLI
 
 Baixar e instalar [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line).
