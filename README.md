@@ -50,3 +50,5 @@ Baixar e instalar [Heroku CLI](https://devcenter.heroku.com/articles/heroku-comm
 
 ## WSO2 API Manager
 Faça a instalação do WSO2 API Manager para ter controle e autenticação de sua API. É possível fazer versionamento, além de usar padrão OAuth 2.0 para autenticação. Também possível controlar o numero de requisições por tempo estipulado.
+
+Baixar e instalar [WSO2 API Manager](https://wso2.com/api-management/).
