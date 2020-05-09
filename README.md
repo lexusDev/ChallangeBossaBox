@@ -43,12 +43,12 @@ O **Challenge** é um projeto que visa fornecer e cadastrar ferramentas de tecno
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## Instalar o Heroku CLI
+## 💾 Instalar o Heroku CLI
 Faça a instalação do Heroku CLI para fazer deploy de sua aplicação.
 
 Baixar e instalar [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line).
 
-## WSO2 API Manager
+## 🕹 WSO2 API Manager
 Faça a instalação do WSO2 API Manager para ter controle e autenticação de sua API. É possível fazer versionamento, além de usar padrão OAuth 2.0 para autenticação. Também possível controlar o numero de requisições por tempo estipulado.
 
 Baixar e instalar [WSO2 API Manager](https://wso2.com/api-management/).
