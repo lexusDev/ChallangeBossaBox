@@ -18,17 +18,20 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/)
+- [Heroku](https://www.heroku.com/)
 
 Extras:
 
 - Main Libs
   - [Express](https://expressjs.com/pt-br/)
   - [Mongoose](https://mongoosejs.com/)
+  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
   - [swagger-autogen](https://npmjs.com/package/swagger-autogen)
 
 ## 💻 Projeto
 
-O **Challenge** é um projeto que visa fornecer loca.
+O **Challenge** é um projeto que visa fornecer e cadastrar ferramentas de tecnologias.
 
 ## 🤔 Como contribuir
 
@@ -38,3 +41,6 @@ O **Challenge** é um projeto que visa fornecer loca.
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+Instalar o Heroku CLI
+Baixar e instalar [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line).
