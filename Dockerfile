@@ -10,6 +10,6 @@ COPY . .
 
 USER 10014
 
-EXPOSE 3333
+EXPOSE 3000
 
 CMD ["npm", "run", "start"]
